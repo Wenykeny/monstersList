@@ -1,0 +1,24 @@
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 250px;
+    line-height: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.select_img{
+  display: inline;
+  margin-left: 20px;
+}
+.select{
+  /* -webkit-appearance: none; */
+  border: none;
+  outline: none;
+  padding-left: 20px;
+  height: 51px;
+  width: 200px;
+  text-align: center;
+}
+  
